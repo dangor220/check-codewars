@@ -1,4 +1,4 @@
-# checkCodeWars
+# CheckCodeWars
 
 ## Application for checking completed tasks on CodeWars
 
